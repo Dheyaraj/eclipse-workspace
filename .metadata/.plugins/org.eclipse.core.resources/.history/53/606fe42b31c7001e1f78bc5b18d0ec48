@@ -1,0 +1,14 @@
+import java.util.*;
+public class StackClass1 {
+	class Stack{
+		ArrayList<Integer> list = ArrayList <>();
+		public static boolean isEmpty() {
+			return 
+		}
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
